@@ -1,11 +1,14 @@
-# profile
+# Profile
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-The developer tests his knowledge on Routes, Navigation and also the use of various fonts to further customize an app.
+The developer tests his knowledge on Routes, Navigation and the use of various fonts to further customize an app.
+Also getting an app icon and icon name was also implemented. 
+
+Created 04/02/2022
 
 A few resources to get you started if this is your first Flutter project:
 
